@@ -5,8 +5,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ---
 ### links
 
-[anterior]() pagina
-
 [volver](https://github.com/JuanLuisClaure/project_C) a home
 
-[siguiente]() pagina
+[siguiente](https://github.com/JuanLuisClaure/project_C/blob/master/cases/case-001/technical/mindup.md) pagina
