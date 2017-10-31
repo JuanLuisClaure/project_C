@@ -1,17 +1,18 @@
-# casos de estudio
-fenomeno del internet en su mediativo
-examples of casesod estudies.
+@import "../assets/backOne.jpg"
 
-* [ ] yahora que saleintalled
-* [x] porfa
+#Portada
 
-:+1:
 
-$$
-(a) / (s) = 5484
+  [volver](https://github.com/JuanLuisClaure/project_C) a home
 
-$$
-___casos de estudio___
+#### estudios :+1:
 
-[home](https://github.com/JuanLuisClaure/project_C)
-[doc](https://github.com/JuanLuisClaure/project_C/tree/master/doc)
+---
+
+ Sharing-rooms [link](https://github.com/JuanLuisClaure/project_C/blob/master/cases/case-001/getstarted.md)
+
+---
+
+ other-project [link](https://github.com/JuanLuisClaure/project_C/blob/master/cases/case-001/getstarted.md)
+
+ ---

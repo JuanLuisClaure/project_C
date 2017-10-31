@@ -1,9 +1,8 @@
 @import "../../assets/backThree.jpg"
 
-# Sharing rooms  :ocean:
+# Another cool project :warning:
 
-aca estaria el analisis de loq ue son los shearejing room en el mundo y la mejor forma es empezarndo un negocio desde cero. Por eso la ventaja competitiva seria un analisis previo mas que un deseame suerte.
-
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### indice
 
