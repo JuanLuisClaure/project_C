@@ -55,8 +55,51 @@ let ahora = this.value()
  
    [www.facebook.com](yea yea)
    
-   ![asdasdasd](e:/work/zupa/website/src/client/assets/img/backOne.jpg)
+   ![asdasdasd](./assets/backOne.jpg)
+   ---
    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   ![asdasdasd](./assets/person_3.jpg)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    [sadasdasd]()
    
    
