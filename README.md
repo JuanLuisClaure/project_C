@@ -1,4 +1,5 @@
-@import "./assets/backTwo.jpg"
+@import "./assets/psyfrater.gif"
+![mmm veamos](./assets/psyfrater.gif)
 # Bienvenido
 
 get started | estudios |
